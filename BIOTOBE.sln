@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIOTOBE", "BIOTOBE\BIOTOBE.csproj", "{22EF9A27-8F74-470D-96E5-45AED93160A2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BIOTOBE_Template x64", "BIOTOBE_Template x64\BIOTOBE_Template x64.vdproj", "{71F4B82C-3845-4747-A77C-04F7CB32DC56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22EF9A27-8F74-470D-96E5-45AED93160A2}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{22EF9A27-8F74-470D-96E5-45AED93160A2}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{22EF9A27-8F74-470D-96E5-45AED93160A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EF9A27-8F74-470D-96E5-45AED93160A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F4B82C-3845-4747-A77C-04F7CB32DC56}.Debug|Any CPU.ActiveCfg = Debug
+		{71F4B82C-3845-4747-A77C-04F7CB32DC56}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6102F37B-6D53-432A-8A52-02143F08A76D}
+	EndGlobalSection
+EndGlobal
