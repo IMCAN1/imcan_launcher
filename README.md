@@ -20,11 +20,16 @@ FiveM Launcher โปรแกรมนี้พัฒนาได้ถูก�
 3.พื้นที่เก็บข้อมูลที่ต้องการ: 1452 KB 
 
 4.ภาษา: ภาษาอังกฤษ , ภาษาไทย
+## รูปภายในแอป
+
+![App Screenshot](https://media.discordapp.net/attachments/957508755459833887/1171122032600174633/image.png?ex=655b8762&is=65491262&hm=13bbf90574b3f686225b12b587852d133d423077a29b1134eac688b6327e793c&=&width=793&height=437)
+
+
 ## Support
 
-For support, email can2522th@gmail.com or join our discord channel.
-[![MOVEM](https://dcbadge.vercel.app/api/server/PjhX9cKgAq)](https://discord.gg/PjhX9cKgAq)
+For support, email can2522th@gmail.com or add me on discord.
 
+[![](https://dcbadge.vercel.app/api/server/7A533rR4Gh)](https://discord.gg/7A533rR4Gh)
 ## Authors
 
 - [@IMCAN1](https://github.com/IMCAN1)
